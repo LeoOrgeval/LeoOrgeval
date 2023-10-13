@@ -1,6 +1,7 @@
+<p><img src="flag_france.svg" alt="French flag" width="23" height="14"> 🇫🇷 - Rennes</p>
+
 <img src="667logo_v3.svg" alt="Mangemort Squad" width="auto" height="auto">
 
-<p><img src="flag_france.svg" alt="French flag" width="23" height="14"> 🇫🇷 - Rennes</p>
 <p align="center">A passionate web developer from France</p>
 
 🚀 - <a href="https://leoorgeval.web.app" target="_blank">Portfolio
