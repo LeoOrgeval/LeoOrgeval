@@ -1,8 +1,8 @@
 <p><img src="flag_france.svg" alt="French flag" width="23" height="14"> 🇫🇷 - Rennes</p>
+<p align="center">A passionate web developer from France</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoOrgeval&show_icons=true&theme=dracula)
 
-<h3 align="center">A passionate web developer from France</h3>
 
 🚀 - <a href="https://leoorgeval.web.app" target="_blank">Portfolio
 
