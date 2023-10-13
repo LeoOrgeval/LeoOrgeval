@@ -1,4 +1,4 @@
-<p><img src="flag_france.svg" alt="French flag" width="23" height="14"> 🇫🇷 - Rennes</p>
+<p align="center"><p><img src="flag_france.svg" alt="French flag" width="23" height="14"> 🇫🇷 - Rennes</p>
 <p align="center">A passionate web developer from France</p>
 
 🚀 - <a href="https://leoorgeval.web.app" target="_blank">Portfolio
@@ -11,3 +11,4 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leoorgeval&" alt="leoorgeval" /></p>
+</p>
