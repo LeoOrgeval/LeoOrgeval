@@ -1,4 +1,4 @@
-<img src="667logo" alt="Mangemort Squad" width="auto" height="auto">
+<img src="667logo.jpg" alt="Mangemort Squad" width="auto" height="auto">
 
 <p><img src="flag_france.svg" alt="French flag" width="23" height="14"> 🇫🇷 - Rennes</p>
 <p align="center">A passionate web developer from France</p>
