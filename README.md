@@ -25,10 +25,11 @@
 <a href="https://laravel.com" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="40" height="40"/> 
 </a>
-  <!-- Symfony -->
+<!-- Symfony -->
 <a href="https://symfony.com" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Symfony_logo.svg" alt="symfony" width="40" height="40"/> 
 </a>
+
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoOrgeval&show_icons=true&theme=dracula)
