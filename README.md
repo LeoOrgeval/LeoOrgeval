@@ -1,6 +1,6 @@
 <p><img src="flag_france.svg" alt="French flag" width="23" height="14"> 🇫🇷 - Rennes</p>
 
-<img src="667logo_v3.svg" alt="Mangemort Squad" width="auto" height="auto">
+<img src="BannerRap.svg" alt="Mangemort Squad x Chrome Castle" width="auto" height="auto">
 
 <p align="center">A passionate web developer from France</p>
 
