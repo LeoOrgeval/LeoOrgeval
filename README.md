@@ -22,9 +22,10 @@
   <!-- PHP -->
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"       alt="php" width="40" height="40"/> </a> 
   <!-- Laravel -->
-  <a href="https://laravel.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="laravel" width="40" height="40"/> 
-  </a>
+<a href="https://laravel.com" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="40" height="40"/> 
+</a>
+
   <!-- Symfony -->
   <a href="https://symfony.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/symfony/symfony-ar21.svg" alt="symfony" width="40" height="40"/> 
