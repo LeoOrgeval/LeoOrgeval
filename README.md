@@ -21,6 +21,14 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-      wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <!-- PHP -->
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"       alt="php" width="40" height="40"/> </a> 
+  <!-- Laravel -->
+  <a href="https://laravel.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="laravel" width="40" height="40"/> 
+  </a>
+  <!-- Symfony -->
+  <a href="https://symfony.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/symfony/symfony-ar21.svg" alt="symfony" width="40" height="40"/> 
+  </a>
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoOrgeval&show_icons=true&theme=dracula)
