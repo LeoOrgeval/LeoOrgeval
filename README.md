@@ -27,7 +27,7 @@
 </a>
 <!-- Symfony -->
 <a href="https://symfony.com" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Symfony_logo.svg" alt="symfony" width="40" height="40"/> 
+  <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> 
 </a>
 
 </p>
