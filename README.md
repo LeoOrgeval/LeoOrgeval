@@ -34,7 +34,7 @@
   </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoOrgeval&show_icons=true&theme=dracula)
+<p align="center">
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leoorgeval&" alt="leoorgeval" /></p>
+![Anurag's GitHub stats](https://stats-leoorgevals-projects.vercel.app//api?username=LeoOrgeval&show_icons=true&theme=dracula)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=leoorgeval&" alt="leoorgeval" /></p>
