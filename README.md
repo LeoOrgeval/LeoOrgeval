@@ -1,4 +1,19 @@
-<p><img src="flag_france.svg" alt="French flag" width="23" height="14"> 🇫🇷 - Rennes</p>
+<div align="between">
+  <div>
+    <img src="flag_france.svg" alt="French flag" width="23" height="14"> 🇫🇷 - Rennes
+  </div>
+  <div>
+    <!-- Dark mode -->
+    <a href="#gh-dark-mode-only">
+            <img src="#gh-dark-mode-only" alt="Dark Mode Active" width="80%" height="80%"/>
+    </a>
+    <!-- Light mode -->
+    <a href="#gh-light-mode-only">
+      Light Mode
+      <img src="#gh-light-mode-only" alt="Light Mode Active" width="80%" height="80%"/>
+      </a>
+  </div>
+</div>
 
 <picture>
   <source
@@ -74,11 +89,11 @@
                 <!-- Most Languages -->
                 <!-- Dark mode -->
                 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-                    <img src="https://stats-leoorgevals-projects.vercel.app/api/top-langs?username=LeoOrgeval&langs_count=6&bg_color=33,007BFF,86599D,FF3A44&title_color=fff&text_color=fff&card_width=100%#gh-dark-mode-only" alt="Anurag's GitHub stats-Dark" width="80%" height="80%"/>
+                    <img src="https://stats-leoorgevals-projects.vercel.app/api/top-langs?username=LeoOrgeval&langs_count=10&bg_color=33,007BFF,86599D,FF3A44&title_color=fff&text_color=fff&card_width=100%&custom_title=My%20Most%20Used%20Languages%20👨‍💻#gh-dark-mode-only" alt="Anurag's GitHub stats-Dark" width="80%" height="80%"/>
                 </a>
                 <!-- Light mode -->
                 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-                    <img src="https://stats-leoorgevals-projects.vercel.app/api/top-langs?username=LeoOrgeval&langs_count=6&bg_color=33,E0E0E0,F5F5F5,E3E3E3&title_color=000&text_color=000&hide_border=true&border_radius=10&custom_title=My%20most%20used%20languages&card_width=300&#gh-light-mode-only" alt="Anurag's GitHub stats-Light" width="80%" height="80%"/>
+                    <img src="https://stats-leoorgevals-projects.vercel.app/api/top-langs?username=LeoOrgeval&langs_count=10&bg_color=33,E0E0E0,F5F5F5,E3E3E3&title_color=000&text_color=000&hide_border=true&card_width=100%&custom_title=My%20Most%20Used%20Languages%20👨‍💻&#gh-light-mode-only" alt="Anurag's GitHub stats-Light" width="80%" height="80%"/>
                 </a>
             </td>
         </tr>
