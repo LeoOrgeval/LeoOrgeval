@@ -15,7 +15,9 @@
 
 <p align="center">A passionate web developer from France</p>
 
-🚀 - <a href="https://leoorgeval.web.app" target="_blank">Portfolio
+<div > 
+  🚀 - <a href="https://leoorgeval.web.app" target="_blank">Portfolio
+</div>
 
 <p align="center"> 
   <!-- Figma -->
@@ -64,19 +66,19 @@
                         srcset="https://stats-leoorgevals-projects.vercel.app//api?username=LeoOrgeval&show_icons=true&theme=buefy"
                         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                     />
-                    <img src="https://stats-leoorgevals-projects.vercel.app//api?username=LeoOrgeval&show_icons=true&theme=buefy" />
+                    <img src="https://stats-leoorgevals-projects.vercel.app//api?username=LeoOrgeval&show_icons=true&theme=buefy" width="80%" height="80%"/>
                 </picture>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=leoorgeval&" alt="leoorgeval" />
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=leoorgeval&" alt="leoorgeval" width="80%" height="80%"/>
             </td>
-            <td align="center" valign="top" width="33%">
+            <td align="center" valign="center" width="33%">
                 <!-- Most Languages -->
                 <!-- Dark mode -->
                 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-                    <img src="https://stats-leoorgevals-projects.vercel.app/api/top-langs?username=LeoOrgeval&langs_count=6&bg_color=33,007BFF,86599D,FF3A44&title_color=fff&text_color=fff#gh-dark-mode-only" alt="Anurag's GitHub stats-Dark" />
+                    <img src="https://stats-leoorgevals-projects.vercel.app/api/top-langs?username=LeoOrgeval&langs_count=6&bg_color=33,007BFF,86599D,FF3A44&title_color=fff&text_color=fff&card_width=100%#gh-dark-mode-only" alt="Anurag's GitHub stats-Dark" width="80%" height="80%"/>
                 </a>
                 <!-- Light mode -->
                 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-                    <img src="https://stats-leoorgevals-projects.vercel.app/api/top-langs?username=LeoOrgeval&langs_count=6&bg_color=33,E0E0E0,F5F5F5,E3E3E3&title_color=000&text_color=000&hide_border=true&border_radius=10&custom_title=My%20most%20used%20languages&card_width=300&#gh-light-mode-only" alt="Anurag's GitHub stats-Light" />
+                    <img src="https://stats-leoorgevals-projects.vercel.app/api/top-langs?username=LeoOrgeval&langs_count=6&bg_color=33,E0E0E0,F5F5F5,E3E3E3&title_color=000&text_color=000&hide_border=true&border_radius=10&custom_title=My%20most%20used%20languages&card_width=300&#gh-light-mode-only" alt="Anurag's GitHub stats-Light" width="80%" height="80%"/>
                 </a>
             </td>
         </tr>
