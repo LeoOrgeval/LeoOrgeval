@@ -1,6 +1,17 @@
 <p><img src="flag_france.svg" alt="French flag" width="23" height="14"> 🇫🇷 - Rennes</p>
 
-<img src="BannerRap.svg" alt="Mangemort Squad x Chrome Castle" width="auto" height="auto">
+<picture>
+  <source
+    srcset="https://raw.githubusercontent.com/LeoOrgeval/LeoOrgeval/main/BannerRap.svg"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://raw.githubusercontent.com/LeoOrgeval/LeoOrgeval/main/BannerRap_white.svg"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://raw.githubusercontent.com/LeoOrgeval/LeoOrgeval/main/BannerRap_white.svg" />
+</picture>
+
 
 <p align="center">A passionate web developer from France</p>
 
@@ -29,12 +40,41 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="40" height="40"/> 
   </a>
   <!-- Symfony -->
-  <a href="https://symfony.com" target="_blank" rel="noreferrer"> 
-    <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> 
-  </a>
+    <a href="https://symfony.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" alt="symfony" width="40" 
+        height="40"/> </a>
+  <!-- SASS -->
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" 
+      alt="sass" width="40" height="40"/> </a>
+  <!-- Tailwind -->
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" 
+      width="40" height="40"/> </a>
 </p>
 
 <p align="center">
 
-![Anurag's GitHub stats](https://stats-leoorgevals-projects.vercel.app//api?username=LeoOrgeval&show_icons=true&theme=dracula)
+
+<picture>
+  <source
+    srcset="https://stats-leoorgevals-projects.vercel.app//api?username=LeoOrgeval&show_icons=true&theme=dracula"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://stats-leoorgevals-projects.vercel.app//api?username=LeoOrgeval&show_icons=true&theme=buefy"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://stats-leoorgevals-projects.vercel.app//api?username=LeoOrgeval&show_icons=true&theme=buefy" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://stats-leoorgevals-projects.vercel.app/api/top-langs?username=LeoOrgeval&langs_count=6&layout=compact&bg_color=33,007BFF,86599D,FF3A44&title_color=fff&text_color=fff"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://stats-leoorgevals-projects.vercel.app/api/top-langs?username=LeoOrgeval&langs_count=6&layout=compact&bg_color=30,D4E0FF,904e95&title_color=000&text_color=000&hide_border=true&border_radius=10&custom_title=My%20most%20used%20languages&card_width=300&"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://stats-leoorgevals-projects.vercel.app/api/top-langs?username=LeoOrgeval&langs_count=6&layout=compact" />
+</picture>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=leoorgeval&" alt="leoorgeval" /></p>
