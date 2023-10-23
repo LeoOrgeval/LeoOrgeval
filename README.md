@@ -90,7 +90,7 @@
                 <!-- GitHub Stats -->
                 <picture>
                     <source
-                        srcset="https://stats-leoorgevals-projects.vercel.app//api?username=LeoOrgeval&show_icons=true&bg_color=33,007BFF,86599D,FF3A44&title_color=fff&text_color=fff"
+                        srcset="https://stats-leoorgevals-projects.vercel.app//api?username=LeoOrgeval&show_icons=true&bg_color=33,007BFF,86599D,FF3A44&title_color=fff&text_color=fff&custom_title=My%20Stats%20🚀"
                         media="(prefers-color-scheme: dark)"
                     />
                     <source
