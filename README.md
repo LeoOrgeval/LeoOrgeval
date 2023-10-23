@@ -3,23 +3,30 @@
     <img src="flag_france.svg" alt="French flag" width="23" height="14"> 🇫🇷 - Rennes
   </div>
   <div>
-    <!-- Dark mode -->
-    <a href="#gh-dark-mode-only">
-            <img src="#gh-dark-mode-only" alt="Dark Mode Active" width="80%" height="80%"/>
-    </a>
-    <!-- Light mode -->
-    <a href="#gh-light-mode-only">
-      Light Mode
-      <img src="#gh-light-mode-only" alt="Light Mode Active" width="80%" height="80%"/>
-      </a>
+    <picture>
+          <!-- Dark mode -->
+      <source
+        srcset="https://raw.githubusercontent.com/LeoOrgeval/LeoOrgeval/main/Dark_Mode_GitHub.svg" width="20%" height="20%"
+        media="(prefers-color-scheme: dark)"
+      />
+          <!-- Light mode -->
+      <source
+        srcset="https://raw.githubusercontent.com/LeoOrgeval/LeoOrgeval/main/Light_Mode_GitHub.svg" width="20%" height="20%"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://raw.githubusercontent.com/LeoOrgeval/LeoOrgeval/main/Light_Mode_GitHub.svg" />
+    </picture>
   </div>
 </div>
 
+<!-- Banner -->
 <picture>
+      <!-- Dark mode -->
   <source
     srcset="https://raw.githubusercontent.com/LeoOrgeval/LeoOrgeval/main/BannerRap.svg"
     media="(prefers-color-scheme: dark)"
   />
+      <!-- Light mode -->
   <source
     srcset="https://raw.githubusercontent.com/LeoOrgeval/LeoOrgeval/main/BannerRap_white.svg"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
