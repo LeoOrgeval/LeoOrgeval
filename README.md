@@ -1,23 +1,32 @@
-<div align="between">
-  <div>
-    <img src="flag_france.svg" alt="French flag" width="23" height="14"> 🇫🇷 - Rennes
-  </div>
-  <div>
-    <picture>
-          <!-- Dark mode -->
-      <source
-        srcset="https://raw.githubusercontent.com/LeoOrgeval/LeoOrgeval/main/Dark_Mode_GitHub.svg" width="20%" height="20%"
-        media="(prefers-color-scheme: dark)"
-      />
-          <!-- Light mode -->
-      <source
-        srcset="https://raw.githubusercontent.com/LeoOrgeval/LeoOrgeval/main/Light_Mode_GitHub.svg" width="20%" height="20%"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://raw.githubusercontent.com/LeoOrgeval/LeoOrgeval/main/Light_Mode_GitHub.svg" />
-    </picture>
-  </div>
+<div align="center">
+    <table width="100%">
+        <tr>
+            <td align="start" width="15%" >
+                <div>
+                    <img src="flag_france.svg" alt="French flag" width="23" height="14"> 🇫🇷 - Rennes
+                </div>
+            </td>
+            <td align="end" >
+                <div>
+                    <picture >
+                        <!-- Dark mode -->
+                        <source
+                            srcset="https://raw.githubusercontent.com/LeoOrgeval/LeoOrgeval/main/Dark_Mode_GitHub.svg" width="20%" height="20%"
+                            media="(prefers-color-scheme: dark)"
+                        />
+                        <!-- Light mode -->
+                        <source
+                            srcset="https://raw.githubusercontent.com/LeoOrgeval/LeoOrgeval/main/Light_Mode_GitHub.svg" width="20%" height="20%"
+                            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                        />
+                        <img src="https://raw.githubusercontent.com/LeoOrgeval/LeoOrgeval/main/Light_Mode_GitHub.svg"  />
+                    </picture>
+                </div>
+            </td>
+        </tr>
+    </table>
 </div>
+
 
 <!-- Banner -->
 <picture>
