@@ -75,7 +75,7 @@
     srcset="https://stats-leoorgevals-projects.vercel.app/api/top-langs?username=LeoOrgeval&langs_count=6&layout=compact&bg_color=30,D4E0FF,904e95&title_color=000&text_color=000&hide_border=true&border_radius=10&custom_title=My%20most%20used%20languages&card_width=300&"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://stats-leoorgevals-projects.vercel.app/api/top-langs?username=LeoOrgeval&langs_count=6&layout=compact" />
+  <img src="https://stats-leoorgevals-projects.vercel.app/api/top-langs?username=LeoOrgeval&langs_count=6&layout=compact&bg_color=30,D4E0FF,904e95&title_color=000&text_color=000&hide_border=true&border_radius=10&custom_title=My%20most%20used%20languages&card_width=300&" />
 </picture>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=leoorgeval&" alt="leoorgeval" /></p>
