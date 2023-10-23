@@ -50,24 +50,35 @@
       width="40" height="40"/> </a>
 </p>
 
-<p align="center">
-<!-- GitHub Stats -->
-<picture>
-  <source
-    srcset="https://stats-leoorgevals-projects.vercel.app//api?username=LeoOrgeval&show_icons=true&theme=dracula"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://stats-leoorgevals-projects.vercel.app//api?username=LeoOrgeval&show_icons=true&theme=buefy"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://stats-leoorgevals-projects.vercel.app//api?username=LeoOrgeval&show_icons=true&theme=buefy" />
-</picture>
-</p>
-  
-<!-- Most Languages -->
-[![Anurag's GitHub stats-Dark](https://stats-leoorgevals-projects.vercel.app/api/top-langs?username=LeoOrgeval&langs_count=6&bg_color=33,007BFF,86599D,FF3A44&title_color=fff&text_color=fff#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-  <!-- Light mode -->
-[![Anurag's GitHub stats-Light](https://stats-leoorgevals-projects.vercel.app/api/top-langs?username=LeoOrgeval&langs_count=6&bg_color=30,D4E0FF,904e95&title_color=000&text_color=000&hide_border=true&border_radius=10&custom_title=My%20most%20used%20languages&card_width=300&#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=leoorgeval&" alt="leoorgeval" />
+<div align="center">
+    <table width="100%">
+        <tr>
+            <td align="center" valign="top" width="66%">
+                <!-- GitHub Stats -->
+                <picture>
+                    <source
+                        srcset="https://stats-leoorgevals-projects.vercel.app//api?username=LeoOrgeval&show_icons=true&bg_color=33,007BFF,86599D,FF3A44&title_color=fff&text_color=fff"
+                        media="(prefers-color-scheme: dark)"
+                    />
+                    <source
+                        srcset="https://stats-leoorgevals-projects.vercel.app//api?username=LeoOrgeval&show_icons=true&theme=buefy"
+                        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                    />
+                    <img src="https://stats-leoorgevals-projects.vercel.app//api?username=LeoOrgeval&show_icons=true&theme=buefy" />
+                </picture>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=leoorgeval&" alt="leoorgeval" />
+            </td>
+            <td align="center" valign="top" width="33%">
+                <!-- Most Languages -->
+                <!-- Dark mode -->
+                <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+                    <img src="https://stats-leoorgevals-projects.vercel.app/api/top-langs?username=LeoOrgeval&langs_count=6&bg_color=33,007BFF,86599D,FF3A44&title_color=fff&text_color=fff#gh-dark-mode-only" alt="Anurag's GitHub stats-Dark" />
+                </a>
+                <!-- Light mode -->
+                <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+                    <img src="https://stats-leoorgevals-projects.vercel.app/api/top-langs?username=LeoOrgeval&langs_count=6&bg_color=33,E0E0E0,F5F5F5,E3E3E3&title_color=000&text_color=000&hide_border=true&border_radius=10&custom_title=My%20most%20used%20languages&card_width=300&#gh-light-mode-only" alt="Anurag's GitHub stats-Light" />
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>
