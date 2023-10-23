@@ -50,14 +50,14 @@
   🚀 - <a href="https://leoorgeval.web.app" target="_blank">Portfolio
 </div>
 
-<p align="center"> 
+<div align="center"> 
   <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"           height="40"/> </a> 
   <!-- Firebase -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase"       width="40" height="40"/> </a>
-</p>
+</div>
 
-  <p align="center"> 
+  <div align="center"> 
   <!-- JS -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img                   
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -81,7 +81,7 @@
   <!-- Tailwind -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" 
       width="40" height="40"/> </a>
-</p>
+</div>
 
 <div align="center">
     <table width="100%">
@@ -104,11 +104,11 @@
             <td align="center" valign="center" width="33%">
                 <!-- Most Languages -->
                 <!-- Dark mode -->
-                <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+                <a href="https://github.com/LeoOrgeval#gh-dark-mode-only">
                     <img src="https://stats-leoorgevals-projects.vercel.app/api/top-langs?username=LeoOrgeval&langs_count=10&bg_color=33,007BFF,86599D,FF3A44&title_color=fff&text_color=fff&card_width=100%&custom_title=My%20Most%20Used%20Languages%20👨‍💻#gh-dark-mode-only" alt="Anurag's GitHub stats-Dark" width="80%" height="80%"/>
                 </a>
                 <!-- Light mode -->
-                <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+                <a href="https://github.com/LeoOrgeval#gh-light-mode-only">
                     <img src="https://stats-leoorgevals-projects.vercel.app/api/top-langs?username=LeoOrgeval&langs_count=10&bg_color=33,E0E0E0,F5F5F5,E3E3E3&title_color=000&text_color=000&hide_border=true&card_width=100%&custom_title=My%20Most%20Used%20Languages%20👨‍💻&#gh-light-mode-only" alt="Anurag's GitHub stats-Light" width="80%" height="80%"/>
                 </a>
             </td>
