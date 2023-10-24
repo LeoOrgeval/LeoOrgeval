@@ -50,15 +50,23 @@
   🚀 - <a href="https://leoorgeval.web.app" target="_blank">Portfolio
 </div>
 
+<!-- Icons -->
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,firebase,github,gitlab,idea" />
+    <picture>
+      <source srcset="https://skillicons.dev/icons?i=figma,firebase,github,gitlab,idea" media="(prefers-color-scheme: dark)">
+      <img src="https://skillicons.dev/icons?i=figma,firebase,github,gitlab,idea&theme=light" />
+    </picture>
   </a>
 </div>
 
+<!-- 2nd row -->
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,javascript,angular,react,php,laravel,symfony" />
+    <picture>
+      <source srcset="https://skillicons.dev/icons?i=html,css,tailwind,sass,javascript,angular,react,php,laravel,symfony" media="(prefers-color-scheme: dark)">
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,javascript,angular,react,php,laravel,symfony&theme=light" />
+    </picture>
   </a>
 </div>
 
