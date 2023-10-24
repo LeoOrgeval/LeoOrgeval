@@ -52,19 +52,23 @@
 
 <!-- Icons -->
 <div align="center">
-  <a href="https://skillicons.dev">
     <picture>
-      <source srcset="https://skillicons.dev/icons?i=figma,firebase,github,gitlab,idea" media="(prefers-color-scheme: dark)">
+      <source srcset="https://skillicons.dev/icons?i=figma,firebase,github,gitlab,idea" 
+          media="(prefers-color-scheme: dark)">
+        <source srcset="https://skillicons.dev/icons?i=figma,firebase,github,gitlab,idea&theme=light" 
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
       <img src="https://skillicons.dev/icons?i=figma,firebase,github,gitlab,idea&theme=light" />
     </picture>
-  </a>
 </div>
 
 <!-- 2nd row -->
 <div align="center">
   <a href="https://skillicons.dev">
     <picture>
-      <source srcset="https://skillicons.dev/icons?i=html,css,tailwind,sass,javascript,angular,react,php,laravel,symfony" media="(prefers-color-scheme: dark)">
+    <source srcset="https://skillicons.dev/icons?i=html,css,tailwind,sass,javascript,angular,react,php,laravel,symfony&theme=dark" 
+          media="(prefers-color-scheme: dark)">
+        <source srcset="https://skillicons.dev/icons?i=html,css,tailwind,sass,javascript,angular,react,php,laravel,symfony&theme=light" 
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
       <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,javascript,angular,react,php,laravel,symfony&theme=light" />
     </picture>
   </a>
