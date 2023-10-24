@@ -99,7 +99,7 @@
                     />
                     <img src="https://stats-leoorgevals-projects.vercel.app//api?username=LeoOrgeval&show_icons=true&theme=buefy" width="80%" height="80%"/>
                 </picture>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=leoorgeval&" alt="leoorgeval" width="80%" height="80%"/>
+                <div><img src="https://github-readme-streak-stats.herokuapp.com?user=LeoOrgeval&theme=great-gatsby&background=45%2CFF3A44%2C007BFF&ring=EB0202&stroke=EBD500&fire=EB0202" alt="My Streaks" width="80%" height="80%" /></div>
             </td>
             <td align="center" valign="center" width="33%">
                 <!-- Most Languages -->
